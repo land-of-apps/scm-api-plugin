@@ -1,3 +1,3 @@
-name: jenkins-plugin-junit
+name: jenkins-plugin-scm-api
 packages:
 - path: jenkins.scm
