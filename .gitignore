@@ -1,6 +1,6 @@
 # Maven build files
 target/
-
+appmap
 # Jenkins plugin development
 work/
 
