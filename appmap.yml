@@ -1,3 +1,4 @@
 name: jenkins-plugin-scm-api
 packages:
-- path: jenkins.scm
+- path: jenkins
+- path: hudson
